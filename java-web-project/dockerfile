@@ -1,0 +1,2 @@
+FROM naveen0005/global:myweb1
+ADD . /var/www/html
